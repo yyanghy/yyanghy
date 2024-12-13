@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @yyanghy
-- 👀 I’m interested in Quantum Computing and Quantum Many-Body Physics.
-- 🌱 I’m currently studying superconducting qubits.
+- 👀 I’m interested in Quantum State Transfer and circuitQED-based nonlinearity engineering.
 - 💞️ I’m looking to discussion on error-protected superconducting qubits.
 - 📫 
 
